@@ -36,12 +36,14 @@ Feel free to reach out to me on:
 ## Projects
 
 - [Nyatastic](https://go.nekogirl.net/invite-nyatastic/)
+- [Nekogirl API](https://api.nekogirl.net/)
+- [Discord Pomelo Checker](https://github.com/jhhspace/discord-pomelo-checker)
 - AI Catgirl Companion
 
 ## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhhspace&show_icons=true&theme=cobalt)
 
-[Jhhspace Inc. Uptime](https://status.nekogirl.net/)
+![Jhhspace Inc. Uptime](https://status.nekogirl.net/)
 
 **Thanks for visiting my GitHub profile! Nyan-tastic adventures await!** 😻✨
