@@ -44,6 +44,6 @@ Feel free to reach out to me on:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhhspace&show_icons=true&theme=cobalt)
 
-![Jhhspace Inc. Uptime](https://status.nekogirl.net/)
+[Jhhspace Inc. Uptime](https://status.nekogirl.net/)
 
 **Thanks for visiting my GitHub profile! Nyan-tastic adventures await!** 😻✨
