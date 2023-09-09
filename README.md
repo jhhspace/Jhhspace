@@ -1,4 +1,4 @@
-# Hi there, I'm Jhhspace! 😸
+# Hi there, I'm Jhhspace!
 
 ![Catgirl Banner](https://i.nekogirl.net/de1ee23fc7b0.jpg)
 
@@ -41,6 +41,7 @@ Feel free to reach out to me on:
 ## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhhspace&show_icons=true&theme=cobalt)
+
 [Jhhspace Inc. Uptime](https://status.nekogirl.net/)
 
 **Thanks for visiting my GitHub profile! Nyan-tastic adventures await!** 😻✨
