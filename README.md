@@ -2,7 +2,7 @@
 
 ![Catgirl Banner](https://i.nekogirl.net/de1ee23fc7b0.jpg)
 
-I'm a passionate anime enthusiast with a deep love for catgirls! 🐾 When I'm not exploring the world of AI and code, you can find me immersed in the charming and kawaii universe of anime and manga.
+🐾 When I'm not exploring the world of AI and code, you can find me immersed in the charming universe of anime and manga or in VRChat.
 
 ## About Me
 - 🇸🇬 Based in Singapore
@@ -32,7 +32,8 @@ Feel free to reach out to me on:
 - Instagram: [@rea1jh](https://www.instagram.com/rea1jh)
 - Discord: [jhhspace](https://discord.com/users/898569996949676052)
 - My NAS: [jhh](https://cloud.jhhspace.com/u/jhh)
-- Email: jhh@nekogirl.net
+- Nyatastic Relation: jhh@nekogirl.net
+- Business: jhh@jhhspace.com
 
 ## Projects
 
