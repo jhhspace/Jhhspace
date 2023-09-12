@@ -2,7 +2,7 @@
 
 ![Catgirl Banner](https://i.nekogirl.net/de1ee23fc7b0.jpg)
 
-🐾 When I'm not exploring the world of AI and code, you can find me immersed in the charming universe of anime and manga or in VRChat.
+🐾 When I'm not exploring the world of AI and code, you can find me immersed in the charming universe of anime and manga or in space explorations!
 
 ## About Me
 - 🇸🇬 Based in Singapore
@@ -36,6 +36,8 @@ Feel free to reach out to me on:
 - Business: jhh@jhhspace.com
 
 ## Projects
+
+You can support my projects by [donating](https://ko-fi.com/jhhspace)!
 
 - [Nyatastic](https://go.nekogirl.net/invite-nyatastic/)
 - [Nekogirl API](https://api.nekogirl.net/)
