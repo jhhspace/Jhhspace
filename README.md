@@ -12,12 +12,12 @@
 - 🎮 **Gamer by Night**: When the sun sets, I transform into a dedicated gamer, conquering virtual worlds with my catgirl-inspired gaming setup.
 - 🌟 **Open Source Advocate**: I believe in the power of open source software and contribute to projects that align with my interests.
 
-#### Languages I Know of:
+## Languages I Know of:
 
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
-![JSON](https://via.placeholder.com/40x40/FF5733/FFFFFF?text=JSON)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
+<img src="https://via.placeholder.com/40x40/FF5733/FFFFFF?text=JSON" alt="JSON" width="40" height="40">
 
 ## Currently Watching
 
