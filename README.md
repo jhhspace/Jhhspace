@@ -12,6 +12,13 @@
 - 🎮 **Gamer by Night**: When the sun sets, I transform into a dedicated gamer, conquering virtual worlds with my catgirl-inspired gaming setup.
 - 🌟 **Open Source Advocate**: I believe in the power of open source software and contribute to projects that align with my interests.
 
+#### Languages I Know of:
+
+[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)
+[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
+![JSON](https://via.placeholder.com/40x40/FF5733/FFFFFF?text=JSON)
+
 ## Currently Watching
 
 - [Sora no Method](https://myanimelist.net/anime/23209/Sora_no_Method?q=celestial&cat=anime)
