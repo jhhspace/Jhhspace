@@ -4,6 +4,8 @@
 
 🐾 When I'm not exploring the world of AI and code, you can find me immersed in the charming universe of anime and manga or in space explorations!
 
+Profile Picture made using self hosted AI by [AUTOMATIC1111's Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
 ## About Me
 - 🇸🇬 Based in Singapore
 - 👨‍💻 **Developer**: I'm the creator of a Discord bot called Nyatastic, more information can be found in my [support server](https://go.nekogirl.net/). My collage course currently is AI Applications!
