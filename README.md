@@ -7,9 +7,8 @@
 ## About Me
 - 🇸🇬 Based in Singapore
 - 👨‍💻 **Developer**: I'm the creator of a Discord bot called Nyatastic, more information can be found in my [support server](https://go.nekogirl.net/). My collage course currently is AI Applications!
-- 😺 **Catgirl Aficionado**: I can talk endlessly about my favorite catgirl characters!
-- 🌸 **Anime Connoisseur**: I've watched countless series and can recommend the perfect anime for any mood or occasion.
-- 🎮 **Gamer by Night**: When the sun sets, I transform into a dedicated gamer, conquering virtual worlds with my catgirl-inspired gaming setup.
+- 😺 **Catgirl Aficionado**: cat...girl...
+- 🌸 **Anime Connoisseur**: Trust me, you do not want to hear me blabber all day..........
 - 🌟 **Open Source Advocate**: I believe in the power of open source software and contribute to projects that align with my interests.
 
 ## Languages I Know of:
