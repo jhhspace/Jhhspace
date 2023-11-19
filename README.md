@@ -10,7 +10,7 @@ Profile Picture made using self hosted AI by [AUTOMATIC1111's Stable Diffusion](
 - 🇸🇬 Based in Singapore
 - 👨‍💻 **Developer**: I'm the creator of a Discord bot called Nyatastic, more information can be found in my [support server](https://go.nekogirl.net/). My collage course currently is AI Applications!
 - 😺 **Catgirl Aficionado**: cat...girl...
-- 🌸 **Anime Connoisseur**: Trust me, you do not want to hear me blabber all day..........
+- 🌸 **Anime Connoisseur**: Trust me, you do not want to hear blabbers all day..........
 - 🌟 **Open Source Advocate**: I believe in the power of open source software and contribute to projects that align with my interests.
 
 ## Languages I Know of:
@@ -48,10 +48,10 @@ Feel free to reach out to me on:
 
 You can support my projects by [donating](https://ko-fi.com/jhhspace)!
 
-- [Nyatastic](https://go.nekogirl.net/invite-nyatastic/)
+- [Nyatastic](https://nekogirl.net/)
 - [Nekogirl API](https://api.nekogirl.net/)
 - [Discord Pomelo Checker](https://github.com/jhhspace/discord-pomelo-checker)
-- AI Catgirl Companion
+- [AI Catgirl Companion](https://ai-catgirl-companion.jhhspace.com/)
 
 ## Stats
 
@@ -59,7 +59,7 @@ You can support my projects by [donating](https://ko-fi.com/jhhspace)!
 
 [Jhhspace Inc. Uptime](https://status.nekogirl.net/)
 
-**Thanks for visiting my GitHub profile! Nyan-tastic adventures await!** 😻✨
+**Thanks for visiting my GitHub profile! Nyan-tastic adventures await!**
 
 ## Profile viewer counter
 ![:jhhspace](https://count.getloli.com/get/@:jhhspace)
