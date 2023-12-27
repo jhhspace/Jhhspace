@@ -7,6 +7,9 @@
 Profile Picture made using self hosted AI by [AUTOMATIC1111's Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 ## About Me
+
+![Discord Status Banner](https://discord.c99.nl/widget/theme-3/898569996949676052.png)
+
 - 🇸🇬 Based in Singapore
 - 👨‍💻 **Developer**: I'm the creator of a Discord bot called Nyatastic, more information can be found in my [support server](https://go.nekogirl.net/). My collage course currently is AI Applications!
 - 😺 **Catgirl Aficionado**: cat...girl...
