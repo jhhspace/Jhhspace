@@ -23,19 +23,13 @@ Profile Picture made using self hosted AI by [AUTOMATIC1111's Stable Diffusion](
 
 ## Currently Watching/Reading
 
-- Suzume [Light Novel] (Chinese)
+- Classroom of The Elite [Light Novel]
 
 ## Currently Waiting for updates
 
 - [Date a Live](https://myanimelist.net/anime/15583/Date_A_Live?q=date%20a%20live&cat=anime)
 - [Onii-chan wa Oshimai](https://myanimelist.net/anime/51678/Oniichan_wa_Oshimai?q=onimai&cat=anime)
 - [Eromanga Sensei](https://myanimelist.net/anime/32901/Eromanga-sensei?q=eromanga&cat=anime)
-
-## Recently Finished (6 month period)
-
-- [Sora no Method](https://myanimelist.net/anime/23209/Sora_no_Method?q=celestial&cat=anime)
-- [Tonikaku Kawaii Season 2](https://myanimelist.net/anime/50307/Tonikaku_Kawaii_2nd_Season?q=Over%20the%20moon&cat=anime)
-- [Nyanko Days](https://myanimelist.net/anime/34148/Nyanko_Days?q=nyanko&cat=anime)
 
 ## Connect with Me
 
@@ -45,8 +39,8 @@ Feel free to reach out to me on:
 - Instagram: [@rea1jh](https://www.instagram.com/rea1jh)
 - Discord: [jhhspace](https://discord.com/users/898569996949676052)
 - My NAS: [jhh](https://cloud.jhhspace.com/u/jhh)
-- Nyatastic Relation: jhh@nekogirl.net
-- Business: jhh@jhhspace.com
+- Nyatastic Relation: [jhh@nekogirl.net](mailto:jhh@nekogirl.net)
+- Business: [jhh@jhhspace.com](mailto:jhh@jhhspace.com)
 
 ## Projects
 
