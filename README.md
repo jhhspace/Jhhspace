@@ -1,6 +1,6 @@
 # Hi there, I'm Jhhspace!
 
-![Catgirl Banner](https://i.nekogirl.net/de1ee23fc7b0.jpg)
+![Catgirl Banner](https://i.jhh.moe/95c20c157bc0.jpg)
 
 🐾 When I'm not exploring the world of AI and code, you can find me immersed in the charming universe of anime and manga or in space explorations!
 
