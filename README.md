@@ -9,6 +9,7 @@ Profile Picture made using self hosted AI by [AUTOMATIC1111's Stable Diffusion](
 ## About Me
 
 ![Discord Status Banner](https://discord.c99.nl/widget/theme-3/898569996949676052.png)
+
 [jhh.moe](https://jhh.moe)
 
 - 🇸🇬 Based in Singapore
