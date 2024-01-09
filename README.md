@@ -13,25 +13,13 @@ Profile Picture made using self hosted AI by [AUTOMATIC1111's Stable Diffusion](
 [jhh.moe](https://jhh.moe)
 
 - 🇸🇬 Based in Singapore
-- 👨‍💻 **Developer**: I'm the creator of a Discord bot called Nyatastic, more information can be found in my [support server](https://go.nekogirl.net/). My collage course currently is AI Applications!
-- 😺 **Catgirl Aficionado**: cat...girl...
-- 🌸 **Anime Connoisseur**: Trust me, you do not want to hear blabbers all day..........
+- 👨‍💻 **Developer**: I'm the creator of a Discord bot called Nyatastic, more information can be found in my [support server](https://go.nekogirl.net/). My college course currently is AI Applications!
 - 🌟 **Open Source Advocate**: I believe in the power of open source software and contribute to projects that align with my interests.
 - Admin of [enshittification.social](https://enshittification.social/@jhh)
 
 ## Languages I Know of:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"> <img src="https://via.placeholder.com/40x40/FF5733/FFFFFF?text=JSON" alt="JSON" width="40" height="40">
-
-## Currently Watching/Reading
-
-- Classroom of The Elite [Light Novel]
-
-## Currently Waiting for updates
-
-- [Date a Live](https://myanimelist.net/anime/15583/Date_A_Live?q=date%20a%20live&cat=anime)
-- [Onii-chan wa Oshimai](https://myanimelist.net/anime/51678/Oniichan_wa_Oshimai?q=onimai&cat=anime)
-- [Eromanga Sensei](https://myanimelist.net/anime/32901/Eromanga-sensei?q=eromanga&cat=anime)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"> <img src="https://via.placeholder.com/40x40/FF5733/FFFFFF?text=JSON" alt="JSON" width="50" height="50">
 
 ## Connect with Me
 
