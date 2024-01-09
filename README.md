@@ -9,6 +9,7 @@ Profile Picture made using self hosted AI by [AUTOMATIC1111's Stable Diffusion](
 ## About Me
 
 ![Discord Status Banner](https://discord.c99.nl/widget/theme-3/898569996949676052.png)
+[jhh.moe](https://jhh.moe)
 
 - 🇸🇬 Based in Singapore
 - 👨‍💻 **Developer**: I'm the creator of a Discord bot called Nyatastic, more information can be found in my [support server](https://go.nekogirl.net/). My collage course currently is AI Applications!
@@ -41,6 +42,7 @@ Feel free to reach out to me on:
 - My NAS: [jhh](https://cloud.jhhspace.com/u/jhh)
 - Nyatastic Relation: [jhh@nekogirl.net](mailto:jhh@nekogirl.net)
 - Business: [jhh@jhhspace.com](mailto:jhh@jhhspace.com)
+- Personal: [jhh@jhh.moe](mailto:jhh@jhh.moe)
 
 ## Projects
 
