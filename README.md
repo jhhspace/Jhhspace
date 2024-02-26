@@ -4,8 +4,6 @@
 
 🐾 When I'm not exploring the world of AI and code, you can find me immersed in the charming universe of anime and manga or in space explorations!
 
-Profile Picture made using self hosted AI by [AUTOMATIC1111's Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-
 ## About Me
 
 ![Discord Status Banner](https://discord.c99.nl/widget/theme-3/898569996949676052.png)
