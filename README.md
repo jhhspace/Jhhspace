@@ -11,9 +11,9 @@
 [jhh.moe](https://jhh.moe)
 
 - 🇸🇬 Based in Singapore
-- 👨‍💻 **Developer**: I'm the creator of a Discord bot called Nyatastic, more information can be found in my [support server](https://go.nekogirl.net/). My college course currently is AI Applications!
+- 👨‍💻 **Developer**: I'm the creator of a Discord bot called Nyatastic, more information can be found [here](https://nekogirl.net/). My college course currently is AI Applications!
 - 🌟 **Open Source Advocate**: I believe in the power of open source software and contribute to projects that align with my interests.
-- Admin of [enshittification.social](https://enshittification.social/@jhh)
+- Admin of [enshittification.social](https://enshittification.social/)
 - My GPG Public Key: [Download](https://img.jhh.moe/r/YG9UG7.asc?compress=false)
 
 ## Languages I Know of:
