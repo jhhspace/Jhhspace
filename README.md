@@ -50,4 +50,4 @@ You can support my projects by [donating](https://ko-fi.com/jhhspace)!
 **Thanks for visiting my GitHub profile! Nyan-tastic adventures await!**
 
 ## Profile viewer counter
-![:jhhspace](https://count.getloli.com/get/@:jhhspace)
+![:jhhspace](https://count.chiya.dev/get/@jhhspace?theme=asoul)
