@@ -51,3 +51,6 @@ You can support my projects by [donating](https://ko-fi.com/jhhspace)!
 
 ## Profile viewer counter
 ![:jhhspace](https://count.chiya.dev/get/@jhhspace?theme=asoul)
+
+## Most used language
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhhspace&layout=compact&theme=dracula)
