@@ -13,8 +13,6 @@
 - 🇸🇬 Based in Singapore
 - 👨‍💻 **Developer**: I'm the creator of a Discord bot called Nyatastic, more information can be found [here](https://nekogirl.net/). My college course currently is AI Applications!
 - 🌟 **Open Source Advocate**: I believe in the power of open source software and contribute to projects that align with my interests.
-- Admin of [enshittification.social](https://enshittification.social/)
-- My GPG Public Key: [Download](https://img.jhh.moe/r/YG9UG7.asc?compress=false)
 
 ## Languages I Know of:
 
@@ -27,9 +25,8 @@ Feel free to reach out to me on:
 
 - Instagram: [@rea1jh](https://www.instagram.com/rea1jh)
 - Discord: [jhhspace](https://discord.com/users/898569996949676052)
-- My NAS: [jhh](https://cloud.jhhspace.com/u/jhh)
+- My NAS: [jhh](https://cloud.jhh.moe/u/jhh)
 - Nyatastic Relation: [jhh@nekogirl.net](mailto:jhh@nekogirl.net)
-- Business: [jhh@jhhspace.com](mailto:jhh@jhhspace.com)
 - Personal: [jhh@jhh.moe](mailto:jhh@jhh.moe)
 
 ## Projects
