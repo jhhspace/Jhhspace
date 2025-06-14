@@ -1,7 +1,5 @@
 # Hi there, I'm Jhhspace!
 
-![Catgirl Banner](https://img.jhh.moe/r/u6Qdtj.jpg?compress=false)
-
 🐾 When I'm not exploring the world of AI and code, you can find me immersed in the charming universe of anime and manga or in space explorations!
 
 ## About Me
@@ -11,7 +9,7 @@
 [jhh.moe](https://jhh.moe)
 
 - 🇸🇬 Based in Singapore
-- 👨‍💻 **Developer**: I'm the creator of a Discord bot called Nyatastic, more information can be found [here](https://nekogirl.net/). My college course currently is AI Applications!
+- 👨‍💻 **Developer**: I'm the creator of a Discord bot called Nyatastic, more information can be found [here](https://nekogirl.net/).
 - 🌟 **Open Source Advocate**: I believe in the power of open source software and contribute to projects that align with my interests.
 
 ## Languages I Know of:
@@ -23,9 +21,7 @@
 Let's chat about anime, catgirls, or anything else that piques your interest!
 Feel free to reach out to me on:
 
-- Instagram: [@rea1jh](https://www.instagram.com/rea1jh)
 - Discord: [jhhspace](https://discord.com/users/898569996949676052)
-- My NAS: [jhh](https://cloud.jhh.moe/u/jhh)
 - Nyatastic Relation: [jhh@nekogirl.net](mailto:jhh@nekogirl.net)
 - Personal: [jhh@jhh.moe](mailto:jhh@jhh.moe)
 
@@ -36,13 +32,13 @@ You can support my projects by [donating](https://ko-fi.com/jhhspace)!
 - [Nyatastic](https://nekogirl.net/)
 - [Nekogirl API](https://api.nekogirl.net/)
 - [Discord Pomelo Checker](https://github.com/jhhspace/discord-pomelo-checker)
-- [AI Catgirl Companion](https://ai-catgirl-companion.jhhspace.com/)
+- [AI Catgirl Companion](https://catgirl-companion.jhh.moe/)
 
 ## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhhspace&show_icons=true&theme=cobalt)
 
-[Jhhspace Inc. Uptime](https://status.nekogirl.net/)
+[Catgirls Corporation Uptime](https://status.nekogirl.net/)
 
 **Thanks for visiting my GitHub profile! Nyan-tastic adventures await!**
 
