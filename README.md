@@ -14,7 +14,7 @@
 
 ## Languages I Know of:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"> <img src="https://via.placeholder.com/40x40/FF5733/FFFFFF?text=JSON" alt="JSON" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
 
 ## Connect with Me
 
@@ -30,6 +30,7 @@ Feel free to reach out to me on:
 You can support my projects by [donating](https://ko-fi.com/jhhspace)!
 
 - [Nyatastic](https://nekogirl.net/)
+- [Nyastra](https://nekogirl.net/nyastra)
 - [Nekogirl API](https://api.nekogirl.net/)
 - [Discord Pomelo Checker](https://github.com/jhhspace/discord-pomelo-checker)
 - [AI Catgirl Companion](https://catgirl-companion.jhh.moe/)
