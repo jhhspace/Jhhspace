@@ -1,4 +1,4 @@
-# Hi there, I'm Jhhspace!
+# Hi there, I'm jhh!
 
 🐾 When I'm not exploring the world of AI and code, you can find me immersed in the charming universe of anime and manga or in space explorations!
 
@@ -21,7 +21,7 @@
 Let's chat about anime, catgirls, or anything else that piques your interest!
 Feel free to reach out to me on:
 
-- Discord: [jhhspace](https://discord.com/users/898569996949676052)
+- Discord: [898569996949676052](https://discord.com/users/898569996949676052)
 - Nyatastic Relation: [jhh@nekogirl.net](mailto:jhh@nekogirl.net)
 - Personal: [jhh@jhh.moe](mailto:jhh@jhh.moe)
 
@@ -42,9 +42,6 @@ You can support my projects by [donating](https://ko-fi.com/jhhspace)!
 [Catgirls Corporation Uptime](https://status.nekogirl.net/)
 
 **Thanks for visiting my GitHub profile! Nyan-tastic adventures await!**
-
-## Profile viewer counter
-![:jhhspace](https://count.chiya.dev/get/@jhhspace?theme=asoul)
 
 ## Most used language
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhhspace&layout=compact&theme=dracula)
