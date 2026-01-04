@@ -35,13 +35,4 @@ You can support my projects by [donating](https://ko-fi.com/jhhspace)!
 - [Discord Pomelo Checker](https://github.com/jhhspace/discord-pomelo-checker)
 - [AI Catgirl Companion](https://catgirl-companion.jhh.moe/)
 
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhhspace&show_icons=true&theme=cobalt)
-
-[Catgirls Corporation Uptime](https://status.nekogirl.net/)
-
 **Thanks for visiting my GitHub profile! Nyan-tastic adventures await!**
-
-## Most used language
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhhspace&layout=compact&theme=dracula)
